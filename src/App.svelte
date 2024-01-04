@@ -1,9 +1,10 @@
 <script lang="ts">
   import Pen from "./components/Pen.svelte";
+  import Particles from "./components/Particles.svelte";
 </script>
 
 <main>
-  <Pen />
+  <Particles/>
 </main>
 
 <style>
